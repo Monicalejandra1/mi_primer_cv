@@ -1,0 +1,95 @@
+body{
+    background-color:#dfe7fd;
+}
+
+h1{
+    font-family: 'Hammersmith One', sans-serif;;
+    font-size: 2.5rem;
+    text-align: center;
+    color:blueviolet;
+}
+h2{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    color:blueviolet;
+    
+}
+
+h3{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    color:blueviolet;
+}
+
+h4{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    color:blueviolet;
+}
+h5{
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    color:blueviolet;
+}
+
+.datos{
+    font-family:'Pangolin',cursive;
+    color: purple;
+    font-size: 1.5rem;
+    text-align:center;    
+}
+
+.formacion{
+    font-family:'Pangolin',cursive;
+    color:purple;
+    font: size 20px;
+    font-size: 1.5rem;
+}
+
+.experiencia{
+    font-family:'Pangolin',cursive;
+    color:purple;
+    font-size: 1.5rem;
+    text-align:center;
+}
+
+.skills{
+    font-family:'Pangolin',cursive;
+    color:purple;
+    font-size: 1.5rem;
+
+}
+
+ul{
+    list-style-type: 1;
+    text-align: center
+  }
+  
+  li {
+    display: inline;
+    margin-right: 10px;
+  }
+
+  ol {
+    list-style-type: square;
+    text-align: center
+  }
+  
+  li{
+    display: inline;
+    margin-right: 10px;
+  }
+
+  fieldset{
+  background-color: #f4f1ed ;
+  color: purple;
+  border-color: #fad2e1;
+  border: 500px groove (internal value);
+  border-radius: 7px;
+  width: 500px
+  align:center;
+  }
